@@ -1,6 +1,6 @@
 package m17btesteg12;
  /**
-  * Endereço github: 
+  * Endereço github: https://github.com/SamuelCorreia/M17BTesteAval.git 
   * @author Samuel Correia a15711
   */
 public class Janela extends javax.swing.JFrame {
