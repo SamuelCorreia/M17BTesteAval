@@ -64,7 +64,7 @@ public class Janela extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
     
    private void botaoVerificarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botaoVerificarActionPerformed
-      
+
       int numero = Integer.parseInt(campoNumero.getText());
       int i;
       boolean bandeira = true;
